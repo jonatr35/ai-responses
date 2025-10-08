@@ -1,4 +1,4 @@
-# AI Responses Archive
+# AI Responses
 
 A searchable collection of AI responses and conversations, published as a GitHub Pages site.
 

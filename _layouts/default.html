@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,7 +18,7 @@
         }
       },
       plugins: [
-        function({ addUtilities }) {
+        function ({ addUtilities }) {
           addUtilities({
             '.prose': {
               maxWidth: 'none',
@@ -29,6 +30,7 @@
   </script>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
 <body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
   <header class="bg-white shadow-sm border-b border-gray-200">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -36,11 +38,11 @@
         <a class="text-xl font-bold text-primary hover:text-accent transition-colors" href="{{ '/' | relative_url }}">
           {{ site.title }}
         </a>
-        <nav class="flex space-x-4">
+        <!-- <nav class="flex space-x-4">
           <a class="text-secondary hover:text-primary transition-colors px-3 py-2 rounded-md text-sm font-medium" href="{{ '/' | relative_url }}">
             Home
           </a>
-        </nav>
+        </nav> -->
       </div>
     </div>
   </header>
@@ -59,4 +61,5 @@
     </div>
   </footer>
 </body>
+
 </html>
