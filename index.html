@@ -1,0 +1,106 @@
+---
+layout: default
+title: AI Responses Archive
+---
+
+<div class="search-container">
+  <h1>AI Responses Archive</h1>
+  <p>Search through AI responses and conversations</p>
+
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="Search responses..." />
+    <div class="search-stats">
+      <span id="searchStats"></span>
+    </div>
+  </div>
+</div>
+
+<div class="results-container">
+  <div id="searchResults" class="search-results"></div>
+  <div id="allResponses" class="all-responses">
+    <h2>All Responses</h2>
+    <div class="response-grid">
+      {% for response in site.responses %}
+        <div class="response-card" data-title="{{ response.title | downcase }}" data-content="{{ response.content | strip_html | downcase }}" data-tags="{{ response.tags | join: ' ' | downcase }}">
+          <h3><a href="{{ response.url | relative_url }}">{{ response.title }}</a></h3>
+          <div class="response-meta">
+            {% if response.date %}
+              <span class="date">{{ response.date | date: "%B %d, %Y" }}</span>
+            {% endif %}
+            {% if response.tags %}
+              <div class="tags">
+                {% for tag in response.tags %}
+                  <span class="tag">{{ tag }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+          <div class="response-excerpt">
+            {{ response.excerpt | strip_html | truncatewords: 30 }}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const searchInput = document.getElementById('searchInput');
+  const searchResults = document.getElementById('searchResults');
+  const allResponses = document.getElementById('allResponses');
+  const searchStats = document.getElementById('searchStats');
+  const responseCards = document.querySelectorAll('.response-card');
+
+  function performSearch(query) {
+    const lowercaseQuery = query.toLowerCase().trim();
+
+    if (lowercaseQuery === '') {
+      searchResults.style.display = 'none';
+      allResponses.style.display = 'block';
+      searchStats.textContent = '';
+      return;
+    }
+
+    const matchedCards = [];
+    responseCards.forEach(card => {
+      const title = card.dataset.title || '';
+      const content = card.dataset.content || '';
+      const tags = card.dataset.tags || '';
+
+      if (title.includes(lowercaseQuery) ||
+          content.includes(lowercaseQuery) ||
+          tags.includes(lowercaseQuery)) {
+        matchedCards.push(card.cloneNode(true));
+      }
+    });
+
+    searchResults.innerHTML = '';
+    if (matchedCards.length > 0) {
+      const resultsTitle = document.createElement('h2');
+      resultsTitle.textContent = 'Search Results';
+      searchResults.appendChild(resultsTitle);
+
+      const resultsGrid = document.createElement('div');
+      resultsGrid.className = 'response-grid';
+      matchedCards.forEach(card => resultsGrid.appendChild(card));
+      searchResults.appendChild(resultsGrid);
+
+      searchStats.textContent = `${matchedCards.length} result${matchedCards.length !== 1 ? 's' : ''} found`;
+    } else {
+      searchResults.innerHTML = '<h2>No Results</h2><p>No responses found matching your search.</p>';
+      searchStats.textContent = 'No results found';
+    }
+
+    searchResults.style.display = 'block';
+    allResponses.style.display = 'none';
+  }
+
+  searchInput.addEventListener('input', function() {
+    performSearch(this.value);
+  });
+
+  // Update stats on load
+  searchStats.textContent = `${responseCards.length} total response${responseCards.length !== 1 ? 's' : ''}`;
+});
+</script>

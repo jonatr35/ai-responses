@@ -1,6 +1,10 @@
-Perfect! Here’s your **6-month progressive training plan** to get you from ~3 miles/week back to 20-30 miles/week, with shin-friendly principles built in throughout.
+---
+title: "6-Month Progressive Running Training Plan"
+date: 2024-10-07
+tags: ["running", "training", "fitness", "marathon-prep"]
+excerpt: "A comprehensive 6-month training plan to progressively build from 3 miles/week to 20-30 miles/week with shin-friendly principles and structured strength training."
+---
 
------
 
 ## **SHIN-FRIENDLY PRINCIPLES THROUGHOUT:**
 

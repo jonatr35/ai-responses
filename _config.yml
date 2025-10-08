@@ -1,0 +1,33 @@
+title: AI Responses Archive
+description: A searchable collection of AI responses and conversations
+theme: minima
+url: ""
+baseurl: ""
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  responses:
+    output: true
+    permalink: /:collection/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "responses"
+    values:
+      layout: "response"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - README.md
+  - .gitignore
