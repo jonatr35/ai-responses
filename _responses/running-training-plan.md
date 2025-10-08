@@ -17,15 +17,15 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 
 ## Weekly Schedule Structure
 
-| Day | Activity |
-|-----|----------|
-| Monday | Easy Run |
-| Tuesday | Strength Training (Lower Body Focus) |
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | Easy Run          |
+| Tuesday   | Strength Training (Lower Body Focus) |
 | Wednesday | Easy Run or Cross-Training |
-| Thursday | Strength Training (Full Body/Upper Focus) |
-| Friday | Easy Run |
-| Saturday | Long Run |
-| Sunday | Complete Rest |
+| Thursday  | Strength Training (Full Body/Upper Focus) |
+| Friday    | Easy Run |
+| Saturday  | Long Run |
+| Sunday    | Complete Rest |
 
 ---
 
@@ -47,33 +47,39 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 
 ### Weeks 3-4 (Total: 9-11 miles/week)
 
-- **Mon:** 2.5 miles easy
-- **Tue:** Strength
-- **Wed:** 2 miles easy
-- **Thu:** Strength
-- **Fri:** 2.5 miles easy
-- **Sat:** 4 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 2.5 miles easy    |
+| Tuesday   | Strength          |
+| Wednesday | 2 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 2.5 miles easy    |
+| Saturday  | 4 miles easy      |
+| Sunday    | Rest              |
 
 ### Weeks 5-6 (Total: 12-14 miles/week)
 
-- **Mon:** 3 miles easy
-- **Tue:** Strength
-- **Wed:** 2.5 miles easy
-- **Thu:** Strength
-- **Fri:** 3 miles easy
-- **Sat:** 5 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 3 miles easy      |
+| Tuesday   | Strength          |
+| Wednesday | 2.5 miles easy    |
+| Thursday  | Strength          |
+| Friday    | 3 miles easy      |
+| Saturday  | 5 miles easy      |
+| Sunday    | Rest              |
 
 ### Weeks 7-8 (Total: 15-17 miles/week)
 
-- **Mon:** 3.5 miles easy
-- **Tue:** Strength
-- **Wed:** 3 miles easy
-- **Thu:** Strength
-- **Fri:** 3.5 miles easy
-- **Sat:** 6 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 3.5 miles easy    |
+| Tuesday   | Strength          |
+| Wednesday | 3 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 3.5 miles easy    |
+| Saturday  | 6 miles easy      |
+| Sunday    | Rest              |
 
 ---
 
@@ -81,55 +87,65 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 
 **Goal:** Increase volume and introduce quality work
 
-### **Week 9** - RECOVERY WEEK (Total: 12 miles)
+### Week 9 - Recovery Week (Total: 12 miles)
 
-- **Mon:** 3 miles easy
-- **Tue:** Strength
-- **Wed:** 2 miles easy
-- **Thu:** Strength
-- **Fri:** 3 miles easy
-- **Sat:** 4 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 3 miles easy      |
+| Tuesday   | Strength          |
+| Wednesday | 2 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 3 miles easy      |
+| Saturday  | 4 miles easy      |
+| Sunday    | Rest              |
 
-### **Weeks 10-11** (Total: 18-20 miles/week)
+### Weeks 10-11 (Total: 18-20 miles/week)
 
-- **Mon:** 4 miles easy
-- **Tue:** Strength
-- **Wed:** 3 miles easy
-- **Thu:** Strength
-- **Fri:** 4 miles with 4x1min pickups (faster but controlled pace, 2min easy between)
-- **Sat:** 7 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 4 miles easy      |
+| Tuesday   | Strength          |
+| Wednesday | 3 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 4 miles with 4×1min pickups (faster but controlled pace, 2min easy between) |
+| Saturday  | 7 miles easy      |
+| Sunday    | Rest              |
 
-### **Weeks 12-13** (Total: 21-23 miles/week)
+### Weeks 12-13 (Total: 21-23 miles/week)
 
-- **Mon:** 4 miles easy
-- **Tue:** Strength
-- **Wed:** 4 miles easy
-- **Thu:** Strength
-- **Fri:** 5 miles with 6x1min pickups
-- **Sat:** 8 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 4 miles easy      |
+| Tuesday   | Strength          |
+| Wednesday | 4 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 5 miles with 6×1min pickups |
+| Saturday  | 8 miles easy      |
+| Sunday    | Rest              |
 
-### **Week 14** - RECOVERY WEEK (Total: 16 miles)
+### Week 14 - Recovery Week (Total: 16 miles)
 
-- **Mon:** 4 miles easy
-- **Tue:** Strength
-- **Wed:** 3 miles easy
-- **Thu:** Strength
-- **Fri:** 3 miles easy
-- **Sat:** 6 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 4 miles easy      |
+| Tuesday   | Strength          |
+| Wednesday | 3 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 3 miles easy      |
+| Saturday  | 6 miles easy      |
+| Sunday    | Rest              |
 
-### **Weeks 15-16** (Total: 24-26 miles/week)
+### Weeks 15-16 (Total: 24-26 miles/week)
 
-- **Mon:** 5 miles easy
-- **Tue:** Strength
-- **Wed:** 4 miles easy
-- **Thu:** Strength
-- **Fri:** 5 miles with 3x5min at steady pace (comfortably hard, 3min easy between)
-- **Sat:** 10 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 5 miles easy      |
+| Tuesday   | Strength          |
+| Wednesday | 4 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 5 miles with 3×5min at steady pace (comfortably hard, 3min easy between) |
+| Saturday  | 10 miles easy     |
+| Sunday    | Rest              |
 
 ---
 
@@ -137,45 +153,53 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 
 **Goal:** Stabilize at 20-30 miles/week with quality work
 
-### **Weeks 17-18** (Total: 26-28 miles/week)
+### Weeks 17-18 (Total: 26-28 miles/week)
 
-- **Mon:** 5 miles easy
-- **Tue:** Strength
-- **Wed:** 5 miles easy
-- **Thu:** Strength
-- **Fri:** 6 miles with 4x5min at steady pace
-- **Sat:** 10 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 5 miles easy      |
+| Tuesday   | Strength          |
+| Wednesday | 5 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 6 miles with 4×5min at steady pace |
+| Saturday  | 10 miles easy     |
+| Sunday    | Rest              |
 
-### **Week 19** - RECOVERY WEEK (Total: 20 miles)
+### Week 19 - Recovery Week (Total: 20 miles)
 
-- **Mon:** 4 miles easy
-- **Tue:** Strength
-- **Wed:** 4 miles easy
-- **Thu:** Strength
-- **Fri:** 4 miles easy
-- **Sat:** 8 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 4 miles easy      |
+| Tuesday   | Strength          |
+| Wednesday | 4 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 4 miles easy      |
+| Saturday  | 8 miles easy      |
+| Sunday    | Rest              |
 
-### **Weeks 20-21** (Total: 28-30 miles/week)
+### Weeks 20-21 (Total: 28-30 miles/week)
 
-- **Mon:** 5 miles easy
-- **Tue:** Strength
-- **Wed:** 6 miles easy
-- **Thu:** Strength
-- **Fri:** 6 miles with tempo work (20min at comfortably hard pace)
-- **Sat:** 11 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 5 miles easy      |
+| Tuesday   | Strength          |
+| Wednesday | 6 miles easy      |
+| Thursday  | Strength          |
+| Friday    | 6 miles with tempo work (20min at comfortably hard pace) |
+| Saturday  | 11 miles easy     |
+| Sunday    | Rest              |
 
-### **Weeks 22-24** (Total: 28-30 miles/week) - MAINTENANCE
+### Weeks 22-24 - Maintenance (Total: 28-30 miles/week)
 
-- **Mon:** 5-6 miles easy
-- **Tue:** Strength
-- **Wed:** 5-6 miles easy
-- **Thu:** Strength
-- **Fri:** 6-7 miles with quality (tempo, intervals, or fartlek)
-- **Sat:** 10-12 miles easy
-- **Sun:** Rest
+| Day       | Activity          |
+|-----------|-------------------|
+| Monday    | 5-6 miles easy    |
+| Tuesday   | Strength          |
+| Wednesday | 5-6 miles easy    |
+| Thursday  | Strength          |
+| Friday    | 6-7 miles with quality (tempo, intervals, or fartlek) |
+| Saturday  | 10-12 miles easy  |
+| Sunday    | Rest              |
 
 ---
 
