@@ -5,8 +5,9 @@ tags: ["running", "training", "fitness", "marathon-prep"]
 excerpt: "A comprehensive 6-month training plan to progressively build from 3 miles/week to 20-30 miles/week with shin-friendly principles and structured strength training."
 ---
 
+# 6-Month Progressive Running Training Plan
 
-## **SHIN-FRIENDLY PRINCIPLES THROUGHOUT:**
+## Shin-Friendly Principles Throughout
 
 - **Gradual volume increases** (no more than 10% per week)
 - **Surface variation** when possible (treadmill for some runs to reduce impact)
@@ -14,35 +15,37 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 - **Strategic rest** and recovery weeks every 3-4 weeks
 - **Strength work** to support running mechanics and reduce compensation patterns
 
------
+## Weekly Schedule Structure
 
-## **WEEKLY SCHEDULE STRUCTURE:**
+| Day | Activity |
+|-----|----------|
+| Monday | Easy Run |
+| Tuesday | Strength Training (Lower Body Focus) |
+| Wednesday | Easy Run or Cross-Training |
+| Thursday | Strength Training (Full Body/Upper Focus) |
+| Friday | Easy Run |
+| Saturday | Long Run |
+| Sunday | Complete Rest |
 
-**Monday:** Easy Run  
-**Tuesday:** Strength Training (Lower Body Focus)  
-**Wednesday:** Easy Run or Cross-Training  
-**Thursday:** Strength Training (Full Body/Upper Focus)  
-**Friday:** Easy Run  
-**Saturday:** Long Run  
-**Sunday:** Complete Rest
+---
 
------
+## Phase 1: Foundation (Weeks 1-8)
 
-## **PHASE 1: FOUNDATION (Weeks 1-8)**
+**Goal:** Build aerobic base and running consistency while reinforcing movement patterns
 
-*Goal: Build aerobic base and running consistency while reinforcing movement patterns*
+### Weeks 1-2 (Total: 6-8 miles/week)
 
-### **Weeks 1-2** (Total: 6-8 miles/week)
+| Day | Activity |
+|-----|----------|
+| Monday | 2 miles easy |
+| Tuesday | Strength (see below) |
+| Wednesday | 20-min walk or easy bike |
+| Thursday | Strength |
+| Friday | 2 miles easy |
+| Saturday | 3 miles easy |
+| Sunday | Rest |
 
-- **Mon:** 2 miles easy
-- **Tue:** Strength (see below)
-- **Wed:** 20-min walk or easy bike
-- **Thu:** Strength
-- **Fri:** 2 miles easy
-- **Sat:** 3 miles easy
-- **Sun:** Rest
-
-### **Weeks 3-4** (Total: 9-11 miles/week)
+### Weeks 3-4 (Total: 9-11 miles/week)
 
 - **Mon:** 2.5 miles easy
 - **Tue:** Strength
@@ -52,7 +55,7 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 - **Sat:** 4 miles easy
 - **Sun:** Rest
 
-### **Weeks 5-6** (Total: 12-14 miles/week)
+### Weeks 5-6 (Total: 12-14 miles/week)
 
 - **Mon:** 3 miles easy
 - **Tue:** Strength
@@ -62,7 +65,7 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 - **Sat:** 5 miles easy
 - **Sun:** Rest
 
-### **Weeks 7-8** (Total: 15-17 miles/week)
+### Weeks 7-8 (Total: 15-17 miles/week)
 
 - **Mon:** 3.5 miles easy
 - **Tue:** Strength
@@ -72,11 +75,11 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 - **Sat:** 6 miles easy
 - **Sun:** Rest
 
------
+---
 
-## **PHASE 2: BUILD (Weeks 9-16)**
+## Phase 2: Build (Weeks 9-16)
 
-*Goal: Increase volume and introduce quality work*
+**Goal:** Increase volume and introduce quality work
 
 ### **Week 9** - RECOVERY WEEK (Total: 12 miles)
 
@@ -128,11 +131,11 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 - **Sat:** 10 miles easy
 - **Sun:** Rest
 
------
+---
 
-## **PHASE 3: CONSOLIDATE (Weeks 17-24)**
+## Phase 3: Consolidate (Weeks 17-24)
 
-*Goal: Stabilize at 20-30 miles/week with quality work*
+**Goal:** Stabilize at 20-30 miles/week with quality work
 
 ### **Weeks 17-18** (Total: 26-28 miles/week)
 
@@ -174,89 +177,87 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 - **Sat:** 10-12 miles easy
 - **Sun:** Rest
 
------
+---
 
-## **STRENGTH TRAINING PROGRAM**
+## Strength Training Program
 
-### **Tuesday - Running-Specific Lower Body** (45 min)
+### Tuesday - Running-Specific Lower Body (45 min)
 
-*Shin-friendly emphasis: building ankle/foot/calf strength*
+**Focus:** Shin-friendly emphasis: building ankle/foot/calf strength
 
 **Warm-up:** 5 min dynamic (leg swings, hip circles, ankle rolls)
 
 **Main Work:**
 
-1. **Single-leg deadlifts** - 3x8 each leg
-1. **Goblet squats** - 3x10-12
-1. **Bulgarian split squats** - 3x8 each leg
-1. **Calf raises** (straight leg) - 3x15 SLOW (3sec up, 3sec down)
-1. **Calf raises** (bent knee/soleus) - 3x15 SLOW
-1. **Tibialis raises** (toe raises) - 3x20 (crucial for shin health!)
-1. **Single-leg balance holds** - 3x30sec each leg
-1. **Lateral band walks** - 3x15 each direction
+1. **Single-leg deadlifts** - 3×8 each leg
+2. **Goblet squats** - 3×10-12
+3. **Bulgarian split squats** - 3×8 each leg
+4. **Calf raises** (straight leg) - 3×15 SLOW (3sec up, 3sec down)
+5. **Calf raises** (bent knee/soleus) - 3×15 SLOW
+6. **Tibialis raises** (toe raises) - 3×20 (crucial for shin health!)
+7. **Single-leg balance holds** - 3×30sec each leg
+8. **Lateral band walks** - 3×15 each direction
 
-**Core finisher:**
+**Core Finisher:**
 
-- Plank holds - 3x45-60sec
-- Side planks - 2x30sec each side
+- Plank holds - 3×45-60sec
+- Side planks - 2×30sec each side
 
-### **Thursday - Full Body/Upper Focus** (40 min)
+### Thursday - Full Body/Upper Focus (40 min)
 
 **Warm-up:** 5 min
 
 **Main Work:**
 
-1. **Deadlifts** - 3x8
-1. **Push-ups or bench press** - 3x10-12
-1. **Rows** (bent over or cable) - 3x10
-1. **Overhead press** - 3x8-10
-1. **Wall sits** - 3x45-60sec
-1. **Glute bridges** - 3x15
-1. **Copenhagen planks or side-lying leg lifts** - 2x20sec each side
+1. **Deadlifts** - 3×8
+2. **Push-ups or bench press** - 3×10-12
+3. **Rows** (bent over or cable) - 3×10
+4. **Overhead press** - 3×8-10
+5. **Wall sits** - 3×45-60sec
+6. **Glute bridges** - 3×15
+7. **Copenhagen planks or side-lying leg lifts** - 2×20sec each side
 
-**Core finisher:**
+**Core Finisher:**
 
-- Dead bugs - 3x10 each side
-- Bird dogs - 3x10 each side
+- Dead bugs - 3×10 each side
+- Bird dogs - 3×10 each side
 
------
+---
 
-## **KEY GUIDELINES:**
+## Key Guidelines
 
-### **Pacing:**
+### Pacing
 
 - **Easy runs:** Conversational pace, you should be able to speak in full sentences (roughly 60-90 sec/mile slower than marathon pace for you)
 - **Steady pace:** Comfortably hard, could speak in short phrases
 - **Pickups:** Controlled faster running, not all-out sprints
 
-### **Treadmill Usage:**
+### Treadmill Usage
 
 Consider doing 1-2 runs per week on the treadmill (especially during the build phase) - the softer, more consistent surface can be shin-friendly. Good candidates: one midweek easy run or your Friday quality session.
 
-### **Listen to Your Body:**
+### Listen to Your Body
 
 - If the shin sensation worsens or becomes painful, **back off immediately** and consider getting it evaluated
-- Skip a run and walk instead if you’re feeling beat up
+- Skip a run and walk instead if you're feeling beat up
 - Better to add an extra rest day than push through concerning pain
 
-### **Recovery Weeks:**
+### Recovery Weeks
 
-Built in every 3-4 weeks - don’t skip these! They allow your body to adapt and reduce injury risk.
+Built in every 3-4 weeks - don't skip these! They allow your body to adapt and reduce injury risk.
 
-### **Cross-Training Options** (for Wed when listed):
+### Cross-Training Options
+
+*For Wednesday when cross-training is listed:*
 
 - Cycling (30-40 min easy)
 - Swimming
 - Elliptical
 - Rowing
-- Or just an easy 30-40 min walk
+- Easy 30-40 min walk
 
-### **Progression Notes:**
+### Progression Notes
 
 - If any week feels too hard, repeat it before progressing
 - The long run should never be more than 30-35% of your weekly mileage
-- By Week 24, you’ll be ready to maintain 25-30 mpw or start training for your next race!
-
------
-
-Does this look good? Any adjustments you’d like me to make to the schedule, strength work, or pacing?​​
+- By Week 24, you'll be ready to maintain 25-30 mpw or start training for your next race!
