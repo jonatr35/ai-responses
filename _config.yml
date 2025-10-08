@@ -10,6 +10,8 @@ plugins:
 
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  input: GFM
 
 collections:
   responses:

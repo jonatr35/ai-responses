@@ -5,8 +5,6 @@ tags: ["running", "training", "fitness", "marathon-prep"]
 excerpt: "A comprehensive 6-month training plan to progressively build from 3 miles/week to 20-30 miles/week with shin-friendly principles and structured strength training."
 ---
 
-# 6-Month Progressive Running Training Plan
-
 ## Shin-Friendly Principles Throughout
 
 - **Gradual volume increases** (no more than 10% per week)
@@ -35,15 +33,15 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 
 ### Weeks 1-2 (Total: 6-8 miles/week)
 
-| Day | Activity |
-|-----|----------|
-| Monday | 2 miles easy |
-| Tuesday | Strength (see below) |
+| Day       | Activity |
+|-----------|----------|
+| Monday    | 2 miles easy |
+| Tuesday   | Strength (see below) |
 | Wednesday | 20-min walk or easy bike |
-| Thursday | Strength |
-| Friday | 2 miles easy |
-| Saturday | 3 miles easy |
-| Sunday | Rest |
+| Thursday  | Strength |
+| Friday    | 2 miles easy |
+| Saturday  | 3 miles easy |
+| Sunday    | Rest |
 
 ### Weeks 3-4 (Total: 9-11 miles/week)
 
