@@ -18,9 +18,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | Easy Run          |
-| Tuesday   | Strength Training (Lower Body Focus) |
+| Tuesday   | [Strength Training (Lower Body Focus)](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | Easy Run or Cross-Training |
-| Thursday  | Strength Training (Full Body/Upper Focus) |
+| Thursday  | [Strength Training (Full Body/Upper Focus)](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | Easy Run |
 | Saturday  | Long Run |
 | Sunday    | Complete Rest |
@@ -36,9 +36,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity |
 |-----------|----------|
 | Monday    | 2 miles easy |
-| Tuesday   | Strength (see below) |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 20-min walk or easy bike |
-| Thursday  | Strength |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 2 miles easy |
 | Saturday  | 3 miles easy |
 | Sunday    | Rest |
@@ -48,9 +48,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 2.5 miles easy    |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 2 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 2.5 miles easy    |
 | Saturday  | 4 miles easy      |
 | Sunday    | Rest              |
@@ -60,9 +60,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 3 miles easy      |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 2.5 miles easy    |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 3 miles easy      |
 | Saturday  | 5 miles easy      |
 | Sunday    | Rest              |
@@ -72,9 +72,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 3.5 miles easy    |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 3 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 3.5 miles easy    |
 | Saturday  | 6 miles easy      |
 | Sunday    | Rest              |
@@ -90,9 +90,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 3 miles easy      |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 2 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 3 miles easy      |
 | Saturday  | 4 miles easy      |
 | Sunday    | Rest              |
@@ -102,9 +102,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 4 miles easy      |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 3 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 4 miles with 4×1min pickups (faster but controlled pace, 2min easy between) |
 | Saturday  | 7 miles easy      |
 | Sunday    | Rest              |
@@ -114,9 +114,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 4 miles easy      |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 4 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 5 miles with 6×1min pickups |
 | Saturday  | 8 miles easy      |
 | Sunday    | Rest              |
@@ -126,9 +126,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 4 miles easy      |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 3 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 3 miles easy      |
 | Saturday  | 6 miles easy      |
 | Sunday    | Rest              |
@@ -138,9 +138,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 5 miles easy      |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 4 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 5 miles with 3×5min at steady pace (comfortably hard, 3min easy between) |
 | Saturday  | 10 miles easy     |
 | Sunday    | Rest              |
@@ -156,9 +156,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 5 miles easy      |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 5 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 6 miles with 4×5min at steady pace |
 | Saturday  | 10 miles easy     |
 | Sunday    | Rest              |
@@ -168,9 +168,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 4 miles easy      |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 4 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 4 miles easy      |
 | Saturday  | 8 miles easy      |
 | Sunday    | Rest              |
@@ -180,9 +180,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 5 miles easy      |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 6 miles easy      |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 6 miles with tempo work (20min at comfortably hard pace) |
 | Saturday  | 11 miles easy     |
 | Sunday    | Rest              |
@@ -192,9 +192,9 @@ excerpt: "A comprehensive 6-month training plan to progressively build from 3 mi
 | Day       | Activity          |
 |-----------|-------------------|
 | Monday    | 5-6 miles easy    |
-| Tuesday   | Strength          |
+| Tuesday   | [Strength](#tuesday---running-specific-lower-body-45-min) |
 | Wednesday | 5-6 miles easy    |
-| Thursday  | Strength          |
+| Thursday  | [Strength](#thursday---full-bodyupper-focus-40-min) |
 | Friday    | 6-7 miles with quality (tempo, intervals, or fartlek) |
 | Saturday  | 10-12 miles easy  |
 | Sunday    | Rest              |
