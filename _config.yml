@@ -1,8 +1,8 @@
 title: AI Responses Archive
 description: A searchable collection of AI responses and conversations
 theme: minima
-url: ""
-baseurl: ""
+url: "https://jonatr35.github.io"
+baseurl: "/ai-responses"
 
 plugins:
   - jekyll-feed
