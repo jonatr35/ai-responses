@@ -29,6 +29,23 @@
     }
   </script>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Find all code blocks with language-mermaid and convert them to mermaid diagrams
+      document.querySelectorAll('pre code.language-mermaid').forEach(function(block) {
+        const pre = block.parentElement;
+        pre.classList.add('mermaid');
+        pre.textContent = block.textContent;
+      });
+
+      // Initialize mermaid
+      mermaid.initialize({
+        startOnLoad: true,
+        theme: 'default'
+      });
+    });
+  </script>
 </head>
 
 <body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
