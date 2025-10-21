@@ -11,7 +11,7 @@ excerpt: "A Gantt chart timeline for our dining room renovation project, trackin
 gantt
     title Dining Room Renovation Timeline
     dateFormat YYYY-MM-DD
-    axisFormat %d
+    axisFormat %m-%d
     section Demo
     Remove Furniture                :a1, 2025-10-20, 2d
     Remove Carpet                   :a2, after a1, 1d
@@ -32,7 +32,7 @@ gantt
     Ceiling Paint                   :c4, after d2, 1d
     Trim, Molding & Door            :c5, after e2, 3d
     
-    section Celing
+    section Ceiling
     Drywall Install                 :d1, after c3, 2d
     Drywall Finishing               :d2, after d1, 3d
     
@@ -48,3 +48,11 @@ gantt
 ```
 
 ## Project Materials To Purchase
+
+- [x] Zipper for plastic
+- [ ] 5/8" subfloor
+- [ ] Celing Drywall
+    - [ ] Sanding vacuum attachment
+- [ ] Baseboard Trim
+- [ ] Paint & Primer & Rollers
+- [ ] Flooring & Molding/Transition
