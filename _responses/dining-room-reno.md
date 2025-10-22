@@ -18,15 +18,14 @@ gantt
     Remove Trim                     :a3, after a2, 1d
     Remove Ceiling                  :a4, after a2, 2d
     Take Measurements               :a5, after a4, 1d
-    Remove Subfloor*                :a6, after a5, 1d
     Buy Materials                   :a7, after a6, 1d
     
     section Subfloor*
-    Subfloor prep                   :b1, after a7, 1d
-    Subfloor Installation           :b2, after b1, 2d
+    Subfloor Prep                   :b1, after a7, 1d
+    Subfloor Primer                 :b2, after b1, 1d
     
     section Paint
-    Buy base trim                   :c1, after b2, 1d
+    Buy Trim                        :c1, after b2, 1d
     Wall Prep                       :c2, after b2, 2d
     Paint Walls                     :c3, after c2, 3d
     Ceiling Paint                   :c4, after d2, 1d
@@ -50,7 +49,7 @@ gantt
 ## Project Materials To Purchase
 
 - [x] Zipper for plastic
-- [ ] 5/8" subfloor
+- [x] Subfloor materials
 - [ ] Celing Drywall
     - [ ] Sanding vacuum attachment
 - [ ] Baseboard Trim
