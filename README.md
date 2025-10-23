@@ -7,6 +7,48 @@ A searchable collection of AI responses and conversations, published as a GitHub
 1. **Enable GitHub Pages**: Go to your repository settings → Pages → Source: Deploy from a branch → Branch: main
 2. **Access your site**: Visit `https://yourusername.github.io/ai-responses`
 
+## 💻 Local Development
+
+To run the site locally:
+
+1. **Install dependencies** (first time only):
+   ```bash
+   bundle install
+   ```
+
+2. **Run the development server**:
+   ```bash
+   bundle exec jekyll serve
+   ```
+
+3. **Access the site**: Open your browser to `http://127.0.0.1:4000/ai-responses/`
+
+The site will auto-reload when you make changes to files.
+
+### Additional Commands
+
+**Build without serving** (just generate the static files):
+```bash
+bundle exec jekyll build
+```
+
+**Serve with live reload and drafts**:
+```bash
+bundle exec jekyll serve --livereload --drafts
+```
+
+**Serve on a different port**:
+```bash
+bundle exec jekyll serve --port 4001
+```
+
+### Prerequisites
+
+You'll need Ruby installed on your system:
+- **macOS**: Ruby comes pre-installed, or use `brew install ruby`
+- **Linux**: `sudo apt-get install ruby-full` (Ubuntu/Debian)
+- **Windows**: Use [RubyInstaller](https://rubyinstaller.org/)
+
 ## 📁 Adding New Responses
 
 Create new files in the `_responses/` directory with this format:
