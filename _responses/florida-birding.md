@@ -92,3 +92,16 @@ Smaller preserve but good variety with hardwood edges and water. Locals report w
 - Underrated spot with mixed woodland and scrub habitat
 - January can bring a diversity of songbirds you haven't yet marked off
 - Quiet trails perfect for a focused 2–3 hour walk
+
+## Riverbend Park
+
+**Rating:** 4.7 | **Activity:** Parks | **Duration:** ~1 hr 45 min
+
+**Location:** Palm Beach County
+
+A larger inland preserve with pine flatwoods, cypress swamps, oak hammocks and river edge. It's known for diverse winter and resident bird life.
+
+### Why Go
+
+- Offers woodland species and birds of scrub that you haven't listed, including potential for Wild Turkey, Barred Owl, and varied migrant passerines in mixed flocks
+- Trails range from short walks (~30 min) to longer loops — perfect for tailoring your 3–4 hour window
