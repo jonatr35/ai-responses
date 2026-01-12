@@ -103,3 +103,7 @@ Edit these files to customize your site:
 **Content Types**: `tutorial`, `explanation`, `troubleshooting`, `code-review`, `best-practices`
 
 **Domains**: `fitness`, `cooking`, `travel`, `business`, `productivity`, `design`
+
+### Prompts
+
+You are looking for a new SUV for your family of 6. You want an SUV that can tow at least 5,000lbs and you are prioritizing cargo space behind the 3rd row seats and reliability. Your max budget is $20,000. Cargo space would ideally be min 18 max 35. Create a list of top 5 options and pros and cons of each.
