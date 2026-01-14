@@ -89,6 +89,9 @@ Merritt Island NWR is only 20 minutes north—combine both for an epic full-morn
 
 ## St. Sebastian River Preserve State Park
 
+<details>
+<summary>Location Details</summary>
+
 **Location:** ~35 min north
 
 This is one of the top birding locations in the entire U.S. and offers three highly sought-after species you haven't seen:
@@ -107,9 +110,12 @@ The visitor center (open Fri-Sun) can direct you to current Scrub-Jay and RCW lo
 
 **Best Strategy:** Head to the southwest quadrant (off CR 512) for Florida Scrub-Jays, then the northeast quadrant for Red-cockaded Woodpeckers. 3-4 hours is perfect.
 
+</details>
+
 ## Savannas Preserve State Park
 
-### Half-Day Visit (3-4 hours)
+<details>
+<summary>Half-Day Visit (3-4 hours)</summary>
 
 **Start at Canoe Launch** (0.7 miles in from main gate)
 
@@ -121,6 +127,8 @@ The visitor center (open Fri-Sun) can direct you to current Scrub-Jay and RCW lo
 
 - Walk 1-mile loop
 - Scan Lake Eden
+
+</details>
 
 <details>
 <summary>Morning Birding Itinerary: Savannas Preserve State Park</summary>
@@ -192,6 +200,9 @@ The visitor center (open Fri-Sun) can direct you to current Scrub-Jay and RCW lo
 
 ## Jonathan Dickinson State Park
 
+<details>
+<summary>Location Details</summary>
+
 **Location:** Hobe Sound, ~30 min south
 
 This 11,500-acre park offers diverse habitats and over 150 species.
@@ -213,7 +224,12 @@ This 11,500-acre park offers diverse habitats and over 150 species.
 
 **Kitching Creek Trail System** - Great birding trail
 
+</details>
+
 ## Fort Pierce Inlet State Park & Jack Island Preserve
+
+<details>
+<summary>Location Details</summary>
 
 **Duration:** ~20 minutes
 
@@ -230,7 +246,12 @@ This coastal location offers shorebirds and gulls you haven't seen yet.
 
 **Tip:** Hike the Oak Hammock Trail for warblers, then scan the beach and inlet jetties.
 
+</details>
+
 ## Green Cay Wetlands & Wakodahatchee Wetlands
+
+<details>
+<summary>Location Details</summary>
 
 **Location:** Boynton Beach/Delray Beach, ~1 hour south
 
@@ -251,7 +272,12 @@ These created wetlands are phenomenal for close-up bird photography and reliable
 
 **Tip:** Walk Wakodahatchee (0.75 mi) first for the most bird activity, then drive to Green Cay (1.5 mi boardwalk). Both are free. Birds are extremely close and acclimated to people.
 
+</details>
+
 ## Spruce Bluff Preserve
+
+<details>
+<summary>Location Details</summary>
 
 **Rating:** 4.6 | **Activity:** Hiking
 
@@ -263,7 +289,12 @@ Smaller preserve but good variety with hardwood edges and water. Locals report w
 - January can bring a diversity of songbirds you haven't yet marked off
 - Quiet trails perfect for a focused 2–3 hour walk
 
+</details>
+
 ## Riverbend Park
+
+<details>
+<summary>Location Details</summary>
 
 **Rating:** 4.7 | **Activity:** Parks | **Duration:** ~1 hr 45 min
 
@@ -275,3 +306,5 @@ A larger inland preserve with pine flatwoods, cypress swamps, oak hammocks and r
 
 - Offers woodland species and birds of scrub that you haven't listed, including potential for Wild Turkey, Barred Owl, and varied migrant passerines in mixed flocks
 - Trails range from short walks (~30 min) to longer loops — perfect for tailoring your 3–4 hour window
+
+</details>
