@@ -5,6 +5,26 @@ tags: ["birding", "florida", "nature", "wildlife"]
 excerpt: "A collection of Florida birding locations with detailed instructions on how to bird each site effectively."
 ---
 
+## St. Sebastian River Preserve State Park
+
+**Location:** ~35 min north
+
+This is one of the top birding locations in the entire U.S. and offers three highly sought-after species you haven't seen:
+
+### Key Species
+
+- Florida Scrub-Jay (endemic - found nowhere else in the world)
+- Red-cockaded Woodpecker (federally endangered)
+- Brown-headed Nuthatch
+
+### Other January Species
+
+Bald Eagle, American Kestrel, Wild Turkey, Eastern Towhee, Savannah Sparrow, and Northern Harrier flying over the pine flatwoods.
+
+The visitor center (open Fri-Sun) can direct you to current Scrub-Jay and RCW locations.
+
+**Best Strategy:** Head to the southwest quadrant (off CR 512) for Florida Scrub-Jays, then the northeast quadrant for Red-cockaded Woodpeckers. 3-4 hours is perfect.
+
 ## Savannas Preserve State Park
 
 ### Half-Day Visit (3-4 hours)
@@ -19,6 +39,74 @@ excerpt: "A collection of Florida birding locations with detailed instructions o
 
 - Walk 1-mile loop
 - Scan Lake Eden
+
+<details>
+<summary>Morning Birding Itinerary: Savannas Preserve State Park</summary>
+
+### At a Glance
+
+- **Address:** 2541 SE Walton Road, Port St. Lucie (main entrance)
+- **Hours:** 8 AM – Sunset
+- **Fee:** $3/vehicle (self-pay, exact change)
+- **Time needed:** 2-3 hours
+
+### Current Access (January 2026)
+
+⚠️ **Construction Alert:** Main entrance trails are limited. Access the White, Yellow, and Blue trails from the Canoe Launch Road (0.7 miles inside the main gate, on left).
+
+**Alternative entrances open:**
+- Jensen Beach Blvd trailhead (restrooms, pavilion)
+- Hawks Bluff Trail off NE Savannah Road
+
+### Recommended Route: Hawks Bluff + Walton Road Combo
+
+#### Stop 1: Hawks Bluff Trail (7:30-8:30 AM)
+
+**Location:** NE Savannah Road entrance, Jensen Beach
+
+- Easy 1-mile loop through scrub and maritime hammock
+- Skirts Lake Eden and a bog area
+- **Target species:** Bald Eagle (nests visible), Northern Harrier, wading birds, wintering warblers
+
+#### Stop 2: Walton Road — Canoe Launch Area (8:45-10:30 AM)
+
+**Location:** Main entrance, drive to Canoe Launch parking
+
+- Walk the Yellow Trail (1 mile) or Blue Trail (2 miles) through marsh edges and flatwoods
+- Scan open water from the canoe launch platform
+- **Target species:** Northern Shoveler, Gadwall, Hooded Merganser, Wilson's Snipe, American Bittern (patient scanning of reedy edges), King Rail (rare—listen for grunting calls)
+
+### Key Species To Target (New for Your List)
+
+| Species | Where to Look | Difficulty |
+|---------|---------------|------------|
+| Bald Eagle | Soaring/perched near nests | Easy |
+| Northern Harrier | Low flight over marsh | Easy |
+| Northern Shoveler | Open water, rafts of ducks | Easy |
+| Gadwall | Mixed with other ducks | Moderate |
+| Hooded Merganser | Open water areas | Moderate |
+| Wilson's Snipe | Muddy edges, wet meadows | Moderate |
+| American Bittern | Reedy marsh edges—freeze and scan | Hard |
+
+### Quick Tips
+
+- **Best light:** Arrive at 7:30 AM for soft light over the marsh
+- **Bring:** Scope if you have one (distances can be long across open water)
+- **Kayaking option:** Canoe/kayak launch available—paddling gets you closer to birds
+- **Note:** Florida Scrub-Jays are present but only reliably viewable during summer citizen science programs
+
+### Sample Timeline
+
+| Time | Activity |
+|------|----------|
+| 7:30 AM | Hawks Bluff Trail — eagles, harriers |
+| 8:30 AM | Drive to Walton Road main entrance |
+| 8:45 AM | Yellow/Blue Trail + Canoe Launch scanning |
+| 10:30 AM | Wrap up |
+
+*Enjoy the largest freshwater marsh on Florida's southeast coast—right in your backyard!*
+
+</details>
 
 ## Jonathan Dickinson State Park
 
