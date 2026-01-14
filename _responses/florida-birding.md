@@ -5,6 +5,88 @@ tags: ["birding", "florida", "nature", "wildlife"]
 excerpt: "A collection of Florida birding locations with detailed instructions on how to bird each site effectively."
 ---
 
+## Viera Wetlands (Ritch Grissom Memorial Wetlands)
+
+<details>
+<summary>Morning Birding Itinerary: Viera Wetlands</summary>
+
+### At a Glance
+
+- **Address:** 2005 Wickham Road, Melbourne, FL 32940
+- **Hours:** Sunrise – Sunset
+- **Fee:** Free (donations encouraged)
+- **Time needed:** 2-3 hours
+- **Distance from Port St. Lucie:** ~1.5 hours north
+
+### Layout
+
+200 acres divided into four "cells" (marshy impoundments) plus a central lake, connected by dike roads. Birding is primarily done by car or on foot along the dikes.
+
+### Recommended Route: Clockwise Loop
+
+#### Stop 1: Entrance Road & First Cell (7:00-7:45 AM)
+
+- Scan the first impoundment immediately after entering
+- Check fence posts and palm snags for Crested Caracara (resident family—often perched prominently at dawn)
+- **Target species:** Bald Eagle (active nest visible from dike), Northern Harrier, Savannah Sparrow in grassy edges
+
+#### Stop 2: Inner Cells Loop (7:45-9:00 AM)
+
+- Drive slowly or walk the dike roads around all four cells
+- Stop frequently to scan open water and muddy edges
+- **Target species:** Hooded Merganser, Northern Shoveler, Lesser Scaup, American White Pelican, Wilson's Snipe, King Rail (listen for grunting in reeds)
+
+#### Stop 3: Central Lake & Observation Tower (9:00-9:30 AM)
+
+- Climb the observation tower for panoramic views
+- Scan for raptors riding morning thermals
+- Check reedy edges for Sora and bitterns
+
+#### Bonus: Click Ponds (9:30-10:00 AM)
+
+- Located ~300 yards north on Wickham Road (Duda Cocoa Ranch sod farm at 10002 N Wickham Rd)
+- Large flocks of American White Pelicans congregate here
+- Also good for additional shorebirds and wading birds
+
+### Key Species To Target (New for Your List)
+
+| Species | Where to Look | Difficulty |
+|---------|---------------|------------|
+| Crested Caracara | Fence posts, palm tops, soaring | Easy-Moderate |
+| Northern Harrier | Low over marsh, both sexes present | Easy |
+| American White Pelican | Open water, especially Click Ponds | Easy |
+| Hooded Merganser | Open water in cells | Easy |
+| Northern Shoveler | Dabbling in shallows | Easy |
+| Lesser Scaup | Rafts on deeper water | Easy |
+| Wilson's Snipe | Muddy edges, wet grass | Moderate |
+| King Rail | Reedy edges—listen for calls | Hard |
+| Least Bittern | Dense reeds—patient scanning | Hard |
+
+### Quick Tips
+
+- **Caracara strategy:** Most reliable at dawn—scan every tall perch, dead palm, and fence post as you enter
+- **Drive vs. walk:** Driving allows quick coverage; walking gets you closer to skulky marsh birds
+- **Smell warning:** Adjacent water treatment plant—some days are worse than others; west wind helps
+- **Crowds:** Popular with birders, joggers, and cyclists—weekday mornings are quieter
+- **Alligators:** Abundant—keep pets leashed and maintain distance
+
+### Sample Timeline
+
+| Time | Activity |
+|------|----------|
+| 7:00 AM | Arrive, scan for Caracara at entrance |
+| 7:00-7:45 AM | First cell—eagles, harriers, caracara |
+| 7:45-9:00 AM | Loop all cells—waterfowl, shorebirds |
+| 9:00-9:30 AM | Observation tower—raptors, overview |
+| 9:30-10:00 AM | Click Ponds—White Pelicans |
+| 10:00 AM | Wrap up |
+
+### Pairs Well With
+
+Merritt Island NWR is only 20 minutes north—combine both for an epic full-morning outing with 20+ potential new species.
+
+</details>
+
 ## St. Sebastian River Preserve State Park
 
 **Location:** ~35 min north
